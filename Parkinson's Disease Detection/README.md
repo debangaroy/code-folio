@@ -26,10 +26,12 @@ These features help capture variations in vocal cord behavior, which are often i
 
 ## 🤖 Machine Learning Model
 - **Model Used**: Support Vector Machine (SVM) with a linear kernel
-```python
-model = SVC(kernel="linear")
-model.fit(X_train, y_train)
+
 
 ---
 ## ✅ Model Accuracy & Evaluation
 Accuracy: 87.18%
+
+''' bash 
+python -m streamlit run Parkinson_prediction_web_app.py
+
