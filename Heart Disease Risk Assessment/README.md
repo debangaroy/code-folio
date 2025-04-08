@@ -19,24 +19,19 @@ The trained model, based on health and lifestyle features, achieves high accurac
 
 ## 💡 Features Considered
 
-- Age, Sex, Cholesterol, Heart Rate
-- Diabetes, Smoking, Family History, Obesity
-- Alcohol Consumption, Exercise Hours, Diet
-- Previous Heart Problems, Medication Use
-- Stress Level, Sedentary Hours, Income
-- BMI, Triglycerides, Blood Pressure
+- Age, Sex, Cholesterol, Heart Rate  
+- Diabetes, Smoking, Family History, Obesity  
+- Alcohol Consumption, Exercise Hours, Diet  
+- Previous Heart Problems, Medication Use  
+- Stress Level, Sedentary Hours, Income  
+- BMI, Triglycerides, Blood Pressure  
 - Physical Activity Days, Sleep Hours
 
 ## 🖥️ Web Application
 
 The project includes a user-friendly **Streamlit web app** where users can enter their health parameters and get an instant risk prediction.
 
-To run the app locally:
+### ▶️ To run the app locally:
 
 ```bash
 streamlit run heart_Disease_Risk_Predict_Web_App.py
-
-
-## 🙋‍♂️ Author
-Debanga Roy
-📫 GitHub
