@@ -36,3 +36,7 @@ To run the app locally:
 ```bash
 streamlit run heart_Disease_Risk_Predict_Web_App.py
 
+
+## 🙋‍♂️ Author
+Debanga Roy
+📫 GitHub
