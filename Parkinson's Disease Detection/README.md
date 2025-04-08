@@ -29,9 +29,21 @@ These features help capture variations in vocal cord behavior, which are often i
 
 
 ---
+
+
 ## ✅ Model Accuracy & Evaluation
 Accuracy: 87.18%
 
-''' bash 
+
+---
+
+
+## 🖥️ Web Application
+
+The project includes a user-friendly **Streamlit web app** where users can enter their health parameters and get an instant risk prediction.
+
+### ▶️ To run the app locally:
+
+```bash
 python -m streamlit run Parkinson_prediction_web_app.py
 
